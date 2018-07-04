@@ -1,0 +1,28 @@
+h1{
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+  color: #f4e1d2;
+}
+
+body{
+  background-color: #b2b2b2;
+}
+
+h2,h3,h4,h5,h6,h7{
+  color: #f18973;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+p{
+  color: #bc5a45;
+  font-family: 'Hind', sans-serif;
+  display: block;
+}
+/*
+paleta de colores
+#b2b2b2
+#f4e1d2
+#f18973
+#bc5a45
+https://www.w3schools.com/colors/colors_palettes.asp
+ */
