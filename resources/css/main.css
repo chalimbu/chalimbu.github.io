@@ -1,28 +1,62 @@
+body{
+  background-color: #fef5cd;
+}
+
 h1{
   font-family: 'Indie Flower', cursive;
-  font-size: 30px;
-  color: #f4e1d2;
+  font-size: 2.5rem;
+  color: #20acac;
 }
 
-body{
-  background-color: #b2b2b2;
-}
-
-h2,h3,h4,h5,h6,h7{
-  color: #f18973;
+h2,h3,h4,h5,h6{
+  color: #68e3e3;
   font-family: 'Josefin Sans', sans-serif;
 }
-
+h2{
+  font-size: 2.3rem;
+}
+h3{
+  font-size: 2.1rem;
+}
+h4{
+  font-size: 1.9rem;
+}
+h5{
+  font-size: 1.7rem;
+}
+h6{
+  font-size: 1.5rem;
+}
 p{
-  color: #bc5a45;
+  color: #000000;
   font-family: 'Hind', sans-serif;
   display: block;
+  font-size: 1rem;
 }
 /*
 paleta de colores
-#b2b2b2
-#f4e1d2
-#f18973
-#bc5a45
+background colors
+#F7E3D4
+#FC7307
+font colors
+#236AB9
+#1461B8
+#091D34
 https://www.w3schools.com/colors/colors_palettes.asp
+https://www.w3schools.com/colors/colors_schemes.asp
+
+#ec5066
+#fdb173
+
+#fde88f Fondo1 blaquito
+#20acac titulo 1
+#68e3e3 titulo 2
+#f4fdfd Titulo 3
+#f7bae2 texto
+#eb47b1
+#8a0f5f
+
+
+#3d1922 Fondo2 oscuro
+
  */
